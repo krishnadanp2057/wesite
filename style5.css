@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items:center;
     min-height: 100vh;
-    background-image: url(image/deer.jpg);
+    background-image: url(deer.jpg);
     background-size: cover;
     background-position: center;
 
